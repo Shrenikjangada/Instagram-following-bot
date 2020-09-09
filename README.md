@@ -1,5 +1,5 @@
 # Instagram-following-bot
-This is created if you want to follow multiple peoples and don't want to waste your time
+This is created if you want to follow multiple peoples on instagram and don't want to waste your time doing it manually
 
 # Required Modules and Software
 
